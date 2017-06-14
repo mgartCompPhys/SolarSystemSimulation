@@ -1,0 +1,2 @@
+Name    type   mass         radius size  eccentricity X            Y Z      Texture
+Sun     star   333000       109.3  5000     0            0            0 0      sun

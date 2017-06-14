@@ -1,0 +1,14 @@
+12
+Name    type   X            degree
+mercury planet 0.39         7.005
+venus   planet 0.723        3.3947
+earth   planet 1            0.0
+Mars    planet 1.524        1.851
+Jupiter planet 5.203        1.305
+Saturn  planet 9.539        2.484
+Uranus  planet 19.18        0.77
+Neptune planet 30.06        1.769
+Pluto   planet 39.48        17.142
+luna    moon   0.9974304813 5.145
+io      moon   5.200181     2.213
+europa  moon   5.15         1.791

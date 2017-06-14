@@ -1,0 +1,15 @@
+Name    type   mass         radius size  eccentricity X            Y Z      Texture
+Sun     star   333000       109.3  5     0            0            0 0      sun
+mercury planet 0.0553       0.3829 0.05  0.205        0.39         0 0.06   mercury
+venus   planet 0.815        0.9499 0.1  0.007        0.723        0 0      venus
+earth   planet 1            1      0.1   0.017        1            0 0      earth
+Mars    planet 0.107        0.5320 0.07 0.093        1.524        0 0      mars
+Jupiter planet 317.83       10.97  1.5   0.048        5.203        0 0      jupiter
+Saturn  planet 95.162       9.140  1     0.056        9.539        0 0      saturn
+Uranus  planet 14.536       3.981  0.5   0.047        19.18        0 0      uranus
+Neptune planet 17.147       3.865  0.5   0.009        30.06        0 0      neptune
+Pluto   planet 0.00218      0.18   0.05  0.1716       39.48        0 0.1716 pluto
+luna    moon   0.0122994193 1      0.05  -0.0549      0.9974304813 0 0      moon
+io      moon   0.0149512889 1      0.05  -0.4         5.25         0 0      moon
+europa  moon   0.008344828  1      0.05  -0.5         5.15         0 0.025  moon
+SARUGAS blackhole 333000000 1      10    0            45           0 0    blackhole

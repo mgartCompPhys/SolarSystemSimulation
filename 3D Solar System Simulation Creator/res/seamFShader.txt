@@ -1,0 +1,16 @@
+#version 400 core
+
+int pass_xy_position;
+in vec2 pass_textureCoords;
+
+out vec4 out_Color;
+
+#define PI 3.141592653589793238462643383279
+
+uniform sampler2D textureSampler;
+
+void main(void){
+    vec2 tc = pass_TextureCoord;
+	tc.x = (PI + atan(pass_xy_position.y, pass_xy_position.x)) / (2 * PI);
+    out_Color = texture(textureSampler, tc);
+}

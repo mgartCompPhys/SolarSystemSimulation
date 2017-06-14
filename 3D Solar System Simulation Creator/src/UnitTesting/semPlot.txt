@@ -1,0 +1,4 @@
+2
+Name    type   X            degree
+earth   planet 1            0.0
+luna    moon   0.9974304813 1.534

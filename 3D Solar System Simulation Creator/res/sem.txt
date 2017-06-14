@@ -1,0 +1,4 @@
+Name    type   mass         radius  size  eccentricity X            Y   Z            Texture
+Sun     star   333000       109.198 10    0            0            0.0 0.0          sun
+earth   planet 1            1.0     0.1   0.017        1            0.0 0.0          earth2
+luna    moon   0.0122994193 0.273   0.05  0.0549       0.99743    0.0 0.026710938648457694  moon

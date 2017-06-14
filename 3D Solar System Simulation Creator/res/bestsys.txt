@@ -1,0 +1,11 @@
+Name    type   mass    radius size eccentricity X     Y Z 
+Sun     star   333000  109.3  1.2  0            0     0 0   
+mercury planet 0.0553  0.3829 0.1  0.205        0.39  0 0.06
+venus   planet 0.815   0.9499 0.25 0.007        0.723 0 0
+earth   planet 1       1      0.25 0.017        1 0 0 0 0
+Mars    planet 0.107   0.5320 0.2  0.093        1.524 0 0
+Jupiter star   303000  10.97  0.8  0.048        5.203 0 0
+Saturn  planet 95.162  9.140  0.6  0.056        9.539 0 0
+Uranus  planet 14.536  3.981  0.4  0.047        19.18 0 0
+Neptune planet 17.147  3.865  0.4  0.009        30.06 0 0
+Pluto   planet 0.00218 0.18   0.05 0.1716       39.48 0 0.1716

@@ -1,0 +1,8 @@
+Name    type   mass   radius   size  eccentricity X   Y   Z    texture
+Alpha   star   366300 1        5     0.5          5   0   0.05    sun
+Beta    star   366300 1        5     0.5          -5  0   -0.05    blueSun
+earth   planet 1      1        0.1   0.017        6 0   0.05 earth
+jumangi planet 25.17  1        1     0.02         11   0.1 0.15 neptune
+muiro   planet 2      1        0.2   -0.57        -9  0   0.05 earthkind
+desri   planet 1.5    1        0.15  0.001        8   0   0.05 vulcan
+infern  planet 5      1        0.5   0.7            5.5 0   0.2   fire

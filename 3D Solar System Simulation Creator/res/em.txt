@@ -1,0 +1,3 @@
+Name    type   mass         radius  size  eccentricity X            Y   Z            Texture
+earth   planet 1            1.0     0.1   0.0          0.0          0.0 0.0          earth2
+luna    moon   0.0122994193 0.273   0.05  0.0549       0.00257      0.0 0.000023140108321808612          moon

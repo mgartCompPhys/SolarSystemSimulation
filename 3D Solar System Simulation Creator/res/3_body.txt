@@ -1,0 +1,4 @@
+Name    type   mass   radius   size  eccentricity X   Y Z
+Alpha   star   366300 1        1.3   0.5          2   0 0
+Beta    star   366300 1        1.1   0.5          -2  0 0
+Omega   star   366300 1        0.75  0            0   0 5

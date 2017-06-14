@@ -1,0 +1,5 @@
+3
+Name    type   X        degree
+luna    moon   0.00257  5.145
+io      moon   0.002819 0.050
+europa  moon   0.053    0.470
